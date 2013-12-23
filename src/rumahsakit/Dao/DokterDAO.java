@@ -51,9 +51,9 @@ public class DokterDAO implements DokterInterface{
             ps.setString(3, d.getIdSpesialis());
             ps.executeUpdate();
             ps.close();
-            JOptionPane.showMessageDialog(null, "Data dokter berhasil ditambah!");
+     //       JOptionPane.showMessageDialog(null, "Data dokter berhasil ditambah!");
         }catch(SQLException se){
-            JOptionPane.showMessageDialog(null, se.getMessage(),"Insert Dokter Gagal!",JOptionPane.ERROR_MESSAGE);
+   //         JOptionPane.showMessageDialog(null, se.getMessage(),"Insert Dokter Gagal!",JOptionPane.ERROR_MESSAGE);
         }
     }
 
@@ -65,9 +65,9 @@ public class DokterDAO implements DokterInterface{
             ps.setString(3, idDokter);
             ps.executeUpdate();
             ps.close();
-            JOptionPane.showMessageDialog(null, "Data dokter berhasil diubah!");
+       //     JOptionPane.showMessageDialog(null, "Data dokter berhasil diubah!");
         }catch(SQLException se){
-            JOptionPane.showMessageDialog(null, se.getMessage(),"Update Dokter Gagal!",JOptionPane.ERROR_MESSAGE);
+        //    JOptionPane.showMessageDialog(null, se.getMessage(),"Update Dokter Gagal!",JOptionPane.ERROR_MESSAGE);
         }
     }
 
@@ -77,9 +77,9 @@ public class DokterDAO implements DokterInterface{
             ps.setString(1, idDokter);
             ps.executeUpdate();
             ps.close();
-            JOptionPane.showMessageDialog(null, "Data dokter berhasil dihapus!");
+          //  JOptionPane.showMessageDialog(null, "Data dokter berhasil dihapus!");
         }catch(SQLException se){
-            JOptionPane.showMessageDialog(null, se.getMessage(),"Delete Dokter Gagal!",JOptionPane.ERROR_MESSAGE);
+          //  JOptionPane.showMessageDialog(null, se.getMessage(),"Delete Dokter Gagal!",JOptionPane.ERROR_MESSAGE);
         }
     }
 
