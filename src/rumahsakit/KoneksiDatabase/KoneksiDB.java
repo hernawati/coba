@@ -19,7 +19,7 @@ public class KoneksiDB {
         if(connection == null){
             try{
                 DriverManager.registerDriver(new com.mysql.jdbc.Driver());
-                connection = (Connection) DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/simple_crud","root","");
+                connection = (Connection) DriverManager.getConnection("jdbc:mysql://192.168.159.1:3306/simple_crud","root","");
             }catch(Throwable t){
                 JOptionPane.showMessageDialog(null, t.getMessage(),"Error - Koneksi Database",JOptionPane.ERROR_MESSAGE);
             }

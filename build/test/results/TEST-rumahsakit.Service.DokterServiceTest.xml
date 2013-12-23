@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="0" hostname="Samsung" name="rumahsakit.Service.DokterServiceTest" skipped="0" tests="3" time="5.513" timestamp="2013-12-23T17:09:55">
+<testsuite errors="0" failures="0" hostname="Samsung" name="rumahsakit.Service.DokterServiceTest" skipped="0" tests="3" time="9.226" timestamp="2013-12-23T17:43:07">
   <properties>
     <property name="default.javac.source" value="1.7" />
     <property name="file.encoding.pkg" value="sun.io" />
     <property name="libs.toplink.maven-pom" value="" />
     <property name="javac.source" value="1.5" />
-    <property name="java.home" value="C:\Program Files\Java\jdk1.7.0_45\jre" />
+    <property name="java.home" value="c:\Program Files\Java\jdk1.7.0_45\jre" />
     <property name="do.archive+manifest.available+main.class" value="true" />
     <property name="test.src.dir" value="test" />
     <property name="libs.jaxws21.src" value="" />
     <property name="javadoc.version" value="false" />
     <property name="libs.CopyLibs.classpath" value="C:\Program Files\NetBeans 6.9.1\java\ant\extra\org-netbeans-modules-java-j2seproject-copylibstask.jar" />
     <property name="libs.javac-api.src" value="" />
-    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.7.0_45\jre\lib\endorsed" />
+    <property name="java.endorsed.dirs" value="c:\Program Files\Java\jdk1.7.0_45\jre\lib\endorsed" />
     <property name="libs.MySQLDriver.classpath" value="C:\Program Files\NetBeans 6.9.1\ide\modules\ext\mysql-connector-java-5.1.6-bin.jar" />
     <property name="libs.jaxb.javadoc" value="C:\Program Files\NetBeans 6.9.1\ide\docs\jaxb-api-doc.zip" />
     <property name="libs.junit.maven-pom" value="" />
@@ -42,7 +42,7 @@
     <property name="libs.swing-app-framework.maven-pom" value="" />
     <property name="user.name" value="Hernawati Susanti S" />
     <property name="manifest.available+main.class+mkdist.available" value="true" />
-    <property name="empty.dir" value="F:\rekammedis\build\empty" />
+    <property name="empty.dir" value="F:\coba dulu\coba\build\empty" />
     <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
     <property name="sun.jnu.encoding" value="Cp1252" />
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
@@ -67,10 +67,10 @@
     <property name="ant.project.default-target" value="default" />
     <property name="libs.hibernate-persistence.javadoc" value="" />
     <property name="libs.ejb3-persistence.classpath" value="C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\ejb3-persistence.jar" />
-    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner rumahsakit.Service.DokterServiceTest filtertrace=true haltOnError=false haltOnFailure=false showoutput=true outputtoformatters=true logfailedtests=true logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.BriefJUnitResultFormatter formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,F:\rekammedis\build\test\results\TEST-rumahsakit.Service.DokterServiceTest.xml crashfile=F:\rekammedis\build\junitvmwatcher648465828707998261.properties propsfile=F:\rekammedis\build\junit8618331331511126423.properties" />
-    <property name="built-jar.properties" value="F:\rekammedis\build\built-jar.properties" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner rumahsakit.Service.DokterServiceTest filtertrace=true haltOnError=false haltOnFailure=false showoutput=true outputtoformatters=true logfailedtests=true logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.BriefJUnitResultFormatter formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,F:\coba dulu\coba\build\test\results\TEST-rumahsakit.Service.DokterServiceTest.xml crashfile=F:\coba dulu\coba\build\junitvmwatcher4876597439547820961.properties propsfile=F:\coba dulu\coba\build\junit2059598352747357166.properties" />
+    <property name="built-jar.properties" value="F:\coba dulu\coba\build\built-jar.properties" />
     <property name="libs.junit.src" value="" />
-    <property name="ant.file" value="F:\rekammedis\build.xml" />
+    <property name="ant.file" value="F:\coba dulu\coba\build.xml" />
     <property name="libs.junit_4.src" value="C:\Program Files\NetBeans 6.9.1\java\docs\junit-4.5-src.jar" />
     <property name="java.io.tmpdir" value="C:\Users\HERNAW~1\AppData\Local\Temp\" />
     <property name="build.test.results.dir" value="build/test/results" />
@@ -105,11 +105,11 @@
     <property name="do.mkdist" value="true" />
     <property name="javadoc.encoding" value="UTF-8" />
     <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
-    <property name="ant.file.RumahSakit" value="F:\rekammedis\build.xml" />
+    <property name="ant.file.RumahSakit" value="F:\coba dulu\coba\build.xml" />
     <property name="do.archive" value="true" />
     <property name="dist.jar" value="dist/RumahSakit.jar" />
     <property name="meta.inf.dir" value="src/META-INF" />
-    <property name="ant.file.RumahSakit-impl" value="F:\rekammedis\nbproject\build-impl.xml" />
+    <property name="ant.file.RumahSakit-impl" value="F:\coba dulu\coba\nbproject\build-impl.xml" />
     <property name="ant.version" value="Apache Ant(TM) version 1.9.2 compiled on July 8 2013" />
     <property name="javadoc.nonavbar" value="false" />
     <property name="user.properties.file" value="C:\Users\Hernawati Susanti S\.netbeans\6.9\build.properties" />
@@ -128,17 +128,17 @@
     <property name="libs.CopyLibs.src" value="" />
     <property name="libs.junit.classpath" value="C:\Program Files\NetBeans 6.9.1\java\modules\ext\junit-3.8.2.jar" />
     <property name="libs.beans-binding.src" value="" />
-    <property name="java.library.path" value="C:\Program Files\Java\jdk1.7.0_45\jre\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\Samsung\AllShare Framework DMS\1.3.14\;C:\Program Files\Samsung\AllShare Framework DMS\1.3.14\64bit\;C:\Program Files (x86)\Git\cmd;C:\Program Files (x86)\Git\bin;F:\xampp\php;C:\Program Files\Java\jdk1.7.0_45\bin;F:\ant\bin;C:\Program Files\Java\jre7\bin;C:\Program Files (x86)\Java\jre7\bin;C:\Program Files (x86)\Java\jdk1.6.0_21\bin;;." />
+    <property name="java.library.path" value="c:\Program Files\Java\jdk1.7.0_45\jre\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;c:\Users\Hernawati Susanti S\bin;.;C:\Program Files (x86)\Git\local\bin;C:\Program Files (x86)\Git\mingw\bin;C:\Program Files (x86)\Git\bin;c:\windows\system32;c:\windows;c:\windows\System32\Wbem;c:\windows\System32\WindowsPowerShell\v1.0\;c:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;c:\Program Files\Samsung\AllShare Framework DMS\1.3.14\;c:\Program Files\Samsung\AllShare Framework DMS\1.3.14\64bit\;C:\Program Files (x86)\Git\cmd;C:\Program Files (x86)\Git\bin;f:\xampp\php;c:\Program Files\Java\jdk1.7.0_45\bin;f:\ant\bin;c:\Program Files\Java\jre7\bin;c:\Program Files (x86)\Java\jre7\bin;c:\Program Files (x86)\Java\jdk1.6.0_21\bin;.;." />
     <property name="libs.PostgreSQLDriver.javadoc" value="" />
     <property name="do.archive+manifest.available+main.class+mkdist.available" value="true" />
     <property name="libs.toplink.javadoc" value="" />
     <property name="ant.java.version" value="1.7" />
-    <property name="basedir" value="F:\rekammedis" />
+    <property name="basedir" value="F:\coba dulu\coba" />
     <property name="javadoc.noindex" value="false" />
     <property name="java.class.version" value="51.0" />
     <property name="javac.test.classpath" value="C:\Program Files\NetBeans 6.9.1\ide\modules\ext\mysql-connector-java-5.1.6-bin.jar:F:\TA\lib\glazedlists_java15.jar:build/classes:C:\Program Files\NetBeans 6.9.1\platform\modules\ext\junit-4.5.jar" />
     <property name="javac.processorpath" value="C:\Program Files\NetBeans 6.9.1\ide\modules\ext\mysql-connector-java-5.1.6-bin.jar:F:\TA\lib\glazedlists_java15.jar" />
-    <property name="ant.home" value="F:\ant" />
+    <property name="ant.home" value="f:/ant" />
     <property name="libs.hibernate-persistence.src" value="" />
     <property name="javadoc.splitindex" value="true" />
     <property name="libs.toplink.src" value="" />
@@ -150,7 +150,7 @@
     <property name="libs.PostgreSQLDriver.classpath" value="C:\Program Files\NetBeans 6.9.1\ide\modules\ext\postgresql-8.3-603.jdbc3.jar" />
     <property name="libs.jaxws21.maven-pom" value="" />
     <property name="libs.junit_4.classpath" value="C:\Program Files\NetBeans 6.9.1\platform\modules\ext\junit-4.5.jar" />
-    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.7.0_45\jre\bin" />
+    <property name="sun.boot.library.path" value="c:\Program Files\Java\jdk1.7.0_45\jre\bin" />
     <property name="build.dir" value="build" />
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
     <property name="libs.swing-app-framework.classpath" value="C:\Program Files\NetBeans 6.9.1\java\modules\ext\appframework-1.0.3.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\swing-worker-1.1.jar" />
@@ -167,35 +167,35 @@
     <property name="libs.swing-layout.classpath" value="C:\Program Files\NetBeans 6.9.1\platform\modules\ext\swing-layout-1.0.4.jar" />
     <property name="libs.spring-framework.classpath" value="C:\Program Files\NetBeans 6.9.1\ide\modules\ext\commons-logging-1.1.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\cglib-2.2.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\spring\spring-2.5.6.SEC01.jar" />
     <property name="java.vm.specification.version" value="1.7" />
-    <property name="work.dir" value="F:\rekammedis" />
+    <property name="work.dir" value="F:\coba dulu\coba" />
     <property name="libs.jaxb.classpath" value="C:\Program Files\NetBeans 6.9.1\ide\modules\ext\jaxb\jaxb-impl.jar;C:\Program Files\NetBeans 6.9.1\ide\modules\ext\jaxb\jaxb-xjc.jar;C:\Program Files\NetBeans 6.9.1\ide\modules\ext\jaxb\jaxb1-impl.jar;C:\Program Files\NetBeans 6.9.1\ide\modules\ext\jaxb\activation.jar;C:\Program Files\NetBeans 6.9.1\ide\modules\ext\jaxb\api\jaxb-api.jar;C:\Program Files\NetBeans 6.9.1\ide\modules\ext\jaxb\api\jsr173_api.jar" />
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
     <property name="javadoc.use" value="true" />
     <property name="sun.cpu.isalist" value="amd64" />
-    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.7.0_45\jre\lib\ext;C:\windows\Sun\Java\lib\ext" />
+    <property name="java.ext.dirs" value="c:\Program Files\Java\jdk1.7.0_45\jre\lib\ext;C:\windows\Sun\Java\lib\ext" />
     <property name="os.version" value="6.2" />
     <property name="excludes" value="" />
     <property name="user.home" value="C:\Users\Hernawati Susanti S" />
     <property name="java.vm.vendor" value="Oracle Corporation" />
     <property name="libs.absolutelayout.maven-pom" value="" />
-    <property name="user.dir" value="F:\rekammedis" />
+    <property name="user.dir" value="F:\coba dulu\coba" />
     <property name="debug-transport" value="dt_shmem" />
     <property name="libs.ejb3-persistence.maven-pom" value="" />
     <property name="application.args" value="" />
     <property name="sun.cpu.endian" value="little" />
     <property name="compile.on.save" value="true" />
     <property name="libs.hibernate-support.classpath" value="C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\antlr-2.7.6.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\asm.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\asm-attrs.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\cglib-2.1.3.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\commons-collections-2.1.1.jar;C:\Program Files\NetBeans 6.9.1\ide\modules\ext\commons-logging-1.1.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\dom4j-1.6.1.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\ehcache-1.2.3.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\jdbc2_0-stdext.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\jta.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\hibernate3.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\hibernate-tools.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\hibernate-annotations.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\hibernate-commons-annotations.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\hibernate-entitymanager.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\javassist.jar" />
-    <property name="endorsed.classpath.cmd.line.arg" value="-Xbootclasspath/p:&apos;F:\rekammedis\${endorsed.classpath}&apos;" />
+    <property name="endorsed.classpath.cmd.line.arg" value="-Xbootclasspath/p:&apos;F:\coba dulu\coba\${endorsed.classpath}&apos;" />
     <property name="jar.index" value="false" />
     <property name="libs.spring-framework300.javadoc" value="" />
     <property name="libs.MySQLDriver.src" value="" />
     <property name="java.vm.version" value="24.45-b08" />
-    <property name="java.class.path" value="C:\Program Files\NetBeans 6.9.1\ide\modules\ext\mysql-connector-java-5.1.6-bin.jar;F:\TA\lib\glazedlists_java15.jar;F:\rekammedis\build\classes;C:\Program Files\NetBeans 6.9.1\platform\modules\ext\junit-4.5.jar;F:\rekammedis\build\test\classes;F:\ant\lib\ant-launcher.jar;F:\ant\lib\ant.jar;F:\ant\lib\ant-junit.jar;F:\ant\lib\ant-junit4.jar" />
+    <property name="java.class.path" value="C:\Program Files\NetBeans 6.9.1\ide\modules\ext\mysql-connector-java-5.1.6-bin.jar;F:\TA\lib\glazedlists_java15.jar;F:\coba dulu\coba\build\classes;C:\Program Files\NetBeans 6.9.1\platform\modules\ext\junit-4.5.jar;F:\coba dulu\coba\build\test\classes;F:\ant\lib\ant-launcher.jar;f:\ant\lib\ant.jar;f:\ant\lib\ant-junit.jar;f:\ant\lib\ant-junit4.jar" />
     <property name="annotation.processing.processor.options" value="" />
     <property name="ant.file.type.RumahSakit" value="file" />
     <property name="libs.hibernate-persistence.classpath" value="C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\antlr-2.7.6.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\asm.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\asm-attrs.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\cglib-2.1.3.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\commons-collections-2.1.1.jar;C:\Program Files\NetBeans 6.9.1\ide\modules\ext\commons-logging-1.1.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\dom4j-1.6.1.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\ehcache-1.2.3.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\jdbc2_0-stdext.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\jta.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\hibernate3.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\hibernate-tools.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\hibernate-annotations.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\hibernate-commons-annotations.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\hibernate-entitymanager.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\javassist.jar;C:\Program Files\NetBeans 6.9.1\java\modules\ext\hibernate\ejb3-persistence.jar" />
     <property name="file.reference.JTattoo.jar-1" value="F:\TA\lib\glazedlists_java15.jar" />
-    <property name="ant.library.dir" value="F:\ant\lib" />
+    <property name="ant.library.dir" value="f:/ant/lib" />
     <property name="os.arch" value="amd64" />
     <property name="javac.deprecation" value="false" />
     <property name="build.classes.excludes" value="**/*.java,**/*.form" />
@@ -203,12 +203,12 @@
     <property name="debug.classpath" value="C:\Program Files\NetBeans 6.9.1\ide\modules\ext\mysql-connector-java-5.1.6-bin.jar:F:\TA\lib\glazedlists_java15.jar:build/classes" />
     <property name="sun.java.launcher" value="SUN_STANDARD" />
     <property name="annotation.processing.enabled.in.editor" value="false" />
-    <property name="ant.core.lib" value="F:\ant\lib\ant.jar" />
+    <property name="ant.core.lib" value="f:\ant\lib\ant.jar" />
     <property name="java.vm.specification.vendor" value="Oracle Corporation" />
     <property name="do.depend" value="false" />
     <property name="file.separator" value="\" />
     <property name="java.runtime.version" value="1.7.0_45-b18" />
-    <property name="sun.boot.class.path" value="F:\rekammedis\${endorsed.classpath};C:\Program Files\Java\jdk1.7.0_45\jre\lib\resources.jar;C:\Program Files\Java\jdk1.7.0_45\jre\lib\rt.jar;C:\Program Files\Java\jdk1.7.0_45\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.7.0_45\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.7.0_45\jre\lib\jce.jar;C:\Program Files\Java\jdk1.7.0_45\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.7.0_45\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.7.0_45\jre\classes" />
+    <property name="sun.boot.class.path" value="F:\coba dulu\coba\${endorsed.classpath};c:\Program Files\Java\jdk1.7.0_45\jre\lib\resources.jar;c:\Program Files\Java\jdk1.7.0_45\jre\lib\rt.jar;c:\Program Files\Java\jdk1.7.0_45\jre\lib\sunrsasign.jar;c:\Program Files\Java\jdk1.7.0_45\jre\lib\jsse.jar;c:\Program Files\Java\jdk1.7.0_45\jre\lib\jce.jar;c:\Program Files\Java\jdk1.7.0_45\jre\lib\charsets.jar;c:\Program Files\Java\jdk1.7.0_45\jre\lib\jfr.jar;c:\Program Files\Java\jdk1.7.0_45\jre\classes" />
     <property name="debug.test.classpath" value="C:\Program Files\NetBeans 6.9.1\ide\modules\ext\mysql-connector-java-5.1.6-bin.jar:F:\TA\lib\glazedlists_java15.jar:build/classes:C:\Program Files\NetBeans 6.9.1\platform\modules\ext\junit-4.5.jar:build/test/classes" />
     <property name="libs.beans-binding.classpath" value="C:\Program Files\NetBeans 6.9.1\java\modules\ext\beansbinding-1.2.1.jar" />
     <property name="have.tests" value="true" />
@@ -235,12 +235,12 @@
     <property name="libs.JWSAntTasks.javadoc" value="" />
     <property name="sun.arch.data.model" value="64" />
   </properties>
-  <testcase classname="rumahsakit.Service.DokterServiceTest" name="testServiceDeleteDokter" time="4.138" />
-  <testcase classname="rumahsakit.Service.DokterServiceTest" name="testServiceInsertDokter" time="0.53" />
-  <testcase classname="rumahsakit.Service.DokterServiceTest" name="testServiceUpdateDokter" time="0.529" />
+  <testcase classname="rumahsakit.Service.DokterServiceTest" name="testServiceDeleteDokter" time="7.044" />
+  <testcase classname="rumahsakit.Service.DokterServiceTest" name="testServiceUpdateDokter" time="0.664" />
+  <testcase classname="rumahsakit.Service.DokterServiceTest" name="testServiceInsertDokter" time="0.887" />
   <system-out><![CDATA[serviceDeleteDokter
-serviceInsertDokter
 serviceUpdateDokter
+serviceInsertDokter
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
